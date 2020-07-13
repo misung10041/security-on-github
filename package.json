@@ -8,7 +8,7 @@
     "hoek": "^4.0.0",
 " devDependencies " : {
    " version " : " 0.0.1 " ,
-  " 종속성 " : {
+  " ependency " : {
     " debug " : " 2.6.8 " ,
     " ejs " : " ^ 2.5.6 " ,
     " hoek " : " ^ 4.0.0 " ,
